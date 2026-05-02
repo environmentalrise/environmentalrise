@@ -1,3 +1,14 @@
+.clients04 .partner-uni .item-img {
+    min-height: 150px;
+    overflow: visible;
+}
+
+.clients04 .partner-uni img {
+    max-height: 85px;
+    max-width: 190px;
+    object-fit: contain;
+}
+
 .clients04 .partners-row {
     display: flex;
     flex-wrap: wrap;
